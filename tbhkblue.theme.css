@@ -1,0 +1,55 @@
+/**
+ * @name tbhkblue
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://wallpapers.com/images/hd/holding-hands-nene-and-hanako-kun-desktop-94gevcs8p04ctoez.jpg');
+  --background-image-blur: 2px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://www.ixpap.com/images/2021/10/Hanako-and-Yashiro-Wallpapers-2.jpg');
+  --popout-image-blur: 1px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://media.discordapp.net/attachments/1086220385604866089/1089455748293083166/jBSRwPy.png?width=535&height=282');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://media.discordapp.net/attachments/1086220385604866089/1089454727877627924/tdQ0vbb.png?width=356&height=387.j[g');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.64;
+  --left-brightness: 0.42;
+  --middle-brightness: 0.52;
+  --right-brightness: 0.14;
+  --overlay-brightness: 0.66;
+  --gradient-primary: 60,53,82;
+  --gradient-secondary: 104,110,146;
+  --link-colour: #8FBFD2;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 235deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0.2;
+  --font: Delicious Handrawn;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
